@@ -12,6 +12,7 @@ wp-content/uploads/
 wp-content/mu-plugins/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
+wp-content/plugins/
 
 # Protected
 /.htaccess
@@ -22,5 +23,3 @@ wp-content/plugins/hello.php
 
 # Visual Studio
 wwcom.code-workspace
-
-
